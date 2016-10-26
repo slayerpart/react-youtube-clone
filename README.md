@@ -4,7 +4,7 @@ A simple youtube clone built with react using the Youtube API
 
 ### Install
 
-```npm install``
+```npm install```
 
 ### Run
 
